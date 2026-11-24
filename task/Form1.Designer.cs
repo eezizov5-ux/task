@@ -1,4 +1,4 @@
-﻿namespace ToDoList_form_Project
+﻿namespace task
 {
     partial class Form1
     {
